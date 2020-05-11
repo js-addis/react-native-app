@@ -1,0 +1,17 @@
+{
+  "name": "reactCRM",
+  "displayName": "reactCRM",
+  "expo": {
+    "name": "reactCRM",
+    "slug": "reactCRM",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
