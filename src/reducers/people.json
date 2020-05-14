@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "firstName": "Jacob",
+        "lastName": "Addis",
+        "phone": "412-699-8349",
+        "company": "Seton Hill",
+        "project": "CRM",
+        "notes": "I am a react developer looking for work"
+    },
+    {
+        "id": 2,
+        "firstName": "Brooklyn",
+        "lastName": "Addis",
+        "phone": "412-699-8349",
+        "company": "Seton Hill",
+        "project": "CRM",
+        "notes": "I am a react developer looking for work"
+    },
+    {
+        "id": 3,
+        "firstName": "Jessica",
+        "lastName": "Addis",
+        "phone": "412-699-8349",
+        "company": "Seton Hill",
+        "project": "CRM",
+        "notes": "I am a react developer looking for work"
+    }
+]
